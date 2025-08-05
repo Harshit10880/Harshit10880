@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Harshit 👋
 
-<!--
-**Harshit10880/Harshit10880** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a Diploma Computer Engineering student.  
+💻 Passionate about Python, Web Development, and Open Source.  
+📚 Currently learning Data Structures and Backend Development.  
+🚀 Projects: Portfolio website, File Organizer, Student Recorder.
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+- HTML | CSS | JavaScript
+- Python | Flask
+- TailwindCSS | React (learning)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![Harshit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harshit10880&show_icons=true&theme=radical)
+
