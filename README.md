@@ -11,6 +11,11 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR-LINK)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github)](https://github.com/HarshitChavda)
 
+### 🚀 Featured Projects
+- [🧠 AI + Web Project - AI Car Recommender](https://github.com/HarshitChavda/ai-car-recommender)
+- [📂 File Organizer using Python](https://github.com/HarshitChavda/python-file-organizer)
+- [📸 Nature Gallery Static Website (Bootstrap)](https://github.com/HarshitChavda/nature-gallery)
+
 
 ## 🛠 Tech Stack
 - HTML | CSS | JavaScript
