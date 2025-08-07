@@ -7,6 +7,10 @@
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=HarshitChavda&color=blue)
 
+### 📫 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR-LINK)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github)](https://github.com/HarshitChavda)
+
 
 ## 🛠 Tech Stack
 - HTML | CSS | JavaScript
