@@ -5,6 +5,9 @@
 📚 Currently learning Data Structures and Backend Development.  
 🚀 Projects: Portfolio website, File Organizer, Student Recorder.
 
+![Visitor Count](https://komarev.com/ghpvc/?username=HarshitChavda&color=blue)
+
+
 ## 🛠 Tech Stack
 - HTML | CSS | JavaScript
 - Python | Flask
