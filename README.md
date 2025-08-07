@@ -44,3 +44,7 @@
 ![React](https://img.shields.io/badge/-React-20232a?style=for-the-badge&logo=react&logoColor=61dafb)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38b2ac?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
+[![Python Certification](https://img.shields.io/badge/Python-Certificate-green)](https://your-certificate-link)
+[![Bootstrap Udemy](https://img.shields.io/badge/Bootstrap-Certified-blue)](https://your-certificate-link)
+
+
