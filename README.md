@@ -140,6 +140,10 @@ print(me.future_goal())
 
 ---
 
+## ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
 # 📌 Current Focus
 
 ```txt
@@ -159,6 +163,10 @@ print(me.future_goal())
 🏅 Web Development Courses
 
 ---
+
+## 🎵 Currently Vibing To
+
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=YOUR-ID&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=YOUR-ID&redirect=true)
 
 # 🌐 Connect With Me
 
