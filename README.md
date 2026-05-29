@@ -24,6 +24,24 @@
 
 ---
 
+# 🏅 Coding Profiles
+
+<p align="left">
+
+<a href="https://leetcode.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerrank.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
+</a>
+
+<a href="https://www.codechef.com/users/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/CodeChef-brown?style=for-the-badge"/>
+</a>
+
+</p>
+
 # 🚀 Featured Projects
 
 ## 🧠 AI Car Recommender
@@ -201,6 +219,36 @@ print(me.future_goal())
 ✅ Get Internship Opportunity
 
 ---
+
+.github/workflows/snake.yml
+
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: Harshit10880
+          outputs: |
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+![snake gif](https://github.com/Harshit10880/Harshit10880/blob/output/github-contribution-grid-snake-dark.svg)
 
 # 🎵 Fun Fact
 
