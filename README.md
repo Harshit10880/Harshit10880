@@ -1,40 +1,40 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Harshit Chavda
 
-<h3 align="center">🚀 Diploma Computer Engineering Student | Python Developer | Backend Learner | Open Source Enthusiast</h3>
+<h3 align="center">🚀 Python Developer | Backend Learner | Open Source Enthusiast | Future AI Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Python+Developer;Backend+Development+Learner;Open+Source+Enthusiast;Building+Cool+Projects+Every+Day;Future+AI+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Python+Developer;Backend+Development+Learner;Building+Cool+Projects;Future+AI+Engineer;Open+Source+Contributor" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Harshit10880&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/Harshit10880?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/github/stars/Harshit10880?style=for-the-badge&logo=github" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-🎓 Diploma student in Computer Engineering
-💻 Passionate about Python, Web Development, AI, and Backend Systems
-🚀 Currently building real-world projects to improve my development skills
-📚 Learning:
-
-* Data Structures & Algorithms
-* Backend Development
-* APIs & Databases
-* React & TailwindCSS
-
-🌱 Goal: Become a Full Stack + AI Engineer
+🎓 Diploma Computer Engineering Student
+💻 Passionate about Python, Backend Development, AI & Web Technologies
+🚀 Building projects to improve real-world development skills
+🌱 Currently learning Full Stack Development & AI
+⚡ Love creating automation tools and useful applications
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🧠 AI Car Recommender
+## 🧠 AI Car Recommender
 
-🔹 AI-powered web application that recommends cars based on user preferences.
+🔹 AI-powered recommendation system for selecting cars based on user preferences.
 
 🔗 https://github.com/HarshitChavda/ai-car-recommender
 
 ---
 
-### 📂 Python File Organizer
+## 📂 Python File Organizer
 
 🔹 Automatically organizes files into folders using Python automation.
 
@@ -42,37 +42,37 @@
 
 ---
 
-### 📸 Nature Gallery Website
+## 📸 Nature Gallery Website
 
-🔹 Responsive Bootstrap-based static photography gallery website.
+🔹 Responsive Bootstrap-based photography gallery website.
 
 🔗 https://github.com/HarshitChavda/nature-gallery
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠 Tech Stack
 
-### 💻 Languages
+## 👨‍💻 Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,javascript,c,html,css" />
+<img src="https://skillicons.dev/icons?i=python,javascript,c,html,css" />
 </p>
 
-### ⚡ Frameworks & Libraries
+## ⚡ Frameworks & Libraries
 
 <p>
-  <img src="https://skillicons.dev/icons?i=flask,nodejs,express,react,tailwind,bootstrap" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,tailwind,bootstrap" />
 </p>
 
-### 🗄️ Database & Tools
+## 🗄 Database & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=mongodb,git,github,vscode" />
 </p>
 
 ---
 
-## 📈 GitHub Stats
+# 📈 GitHub Stats
 
 <p align="center">
 
@@ -84,52 +84,75 @@
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 GitHub Streak Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Harshit10880&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=Harshit10880&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+# 📊 Contribution Graph (Green Squares)
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Harshit10880&theme=algolia&no-frame=true&row=1&column=7" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshit10880&bg_color=0d1117&color=00ff00&line=00ff00&point=ffffff&area=true&hide_border=true" />
 </p>
 
 ---
 
-## 📊 Contribution Graph
+# 🟩 GitHub Contribution Snake Animation
 
-[![Harshit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Harshit10880\&theme=react-dark)](https://github.com/Harshit10880)
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 ---
 
-## 🧠 Currently Learning
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Harshit10880&theme=algolia&row=1&column=7&no-frame=true" />
+</p>
+
+---
+
+# 🧠 Currently Learning
 
 ```python
-class HarshitChavda:
+class Harshit:
 
-    def __init__(self):
-        self.learning = [
+    def skills(self):
+        return [
             "Python",
             "Backend Development",
-            "Data Structures",
             "React",
+            "Data Structures",
             "AI & Machine Learning"
         ]
 
     def future_goal(self):
-        return "Become an AI + Full Stack Engineer 🚀"
+        return "Become AI + Full Stack Engineer 🚀"
 
-me = HarshitChavda()
+me = Harshit()
+
 print(me.future_goal())
 ```
 
 ---
 
-## 📜 Certifications
+# 📌 Current Focus
+
+```txt
+📚 Learning DSA
+⚙️ Building Backend Projects
+🚀 Improving Problem Solving
+🌐 Exploring Open Source
+🤖 Learning AI Development
+```
+
+---
+
+# 📜 Certifications
 
 🏅 Python Certification
 🏅 Bootstrap Certification
@@ -137,34 +160,50 @@ print(me.future_goal())
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/YOUR-LINK" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
+
+<a href="https://linkedin.com/in/YOUR-LINK" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45" />
 </a>
 
-<a href="https://github.com/Harshit10880" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
+<a href="https://github.com/Harshit10880" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" height="45" />
 </a>
+
 </p>
 
 ---
 
-## 👀 Profile Views
+# 💡 Developer Quote
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Harshit10880&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+```txt
+"Consistency is more powerful than motivation."
+```
 
 ---
 
-## ✨ Fun Fact
+# 🎯 2026 Goals
 
-💡 I love building projects that solve real-world problems and help me learn new technologies every day.
+✅ Master Backend Development
+✅ Learn AI & Machine Learning
+✅ Contribute to Open Source
+✅ Build Full Stack Projects
+✅ Get Internship Opportunity
+
+---
+
+# 🎵 Fun Fact
+
+☕ I can spend hours debugging one tiny semicolon issue 😅
 
 ---
 
 <p align="center">
-  ⭐ From <a href="https://github.com/Harshit10880">Harshit Chavda</a>
+
+### 🚀 Thanks for visiting my profile!
+
+⭐ From [Harshit Chavda](https://github.com/Harshit10880)
+
 </p>
