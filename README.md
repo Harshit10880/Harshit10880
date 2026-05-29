@@ -1,62 +1,170 @@
-# Hi, I'm Harshit 👋
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Harshit Chavda
 
-🎓 I'm a Diploma Computer Engineering student.  
-💻 Passionate about Python, Web Development, and Open Source.  
-📚 Currently learning Data Structures and Backend Development.  
-🚀 Projects: Portfolio website, File Organizer, Student Recorder.
+<h3 align="center">🚀 Diploma Computer Engineering Student | Python Developer | Backend Learner | Open Source Enthusiast</h3>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=HarshitChavda&color=blue)
-
-### 📫 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR-LINK)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github)](https://github.com/HarshitChavda)
-
-### 🚀 Featured Projects
-- [🧠 AI + Web Project - AI Car Recommender](https://github.com/HarshitChavda/ai-car-recommender)
-- [📂 File Organizer using Python](https://github.com/HarshitChavda/python-file-organizer)
-- [📸 Nature Gallery Static Website (Bootstrap)](https://github.com/HarshitChavda/nature-gallery)
-
-
-## 🛠 Tech Stack
-- HTML | CSS | JavaScript
-- Python | Flask
-- TailwindCSS | React (learning)
-
-## 📊 GitHub Stats
-![Harshit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harshit10880&show_icons=true&theme=radical)
-
-🔥 My GitHub Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Harshit10880&theme=dark&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshit10880&layout=compact&theme=dark)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Python+Developer;Backend+Development+Learner;Open+Source+Enthusiast;Building+Cool+Projects+Every+Day;Future+AI+Engineer" />
+</p>
 
 ---
 
-### 🏆 GitHub Trophies
+## 👨‍💻 About Me
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Harshit10880&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+🎓 Diploma student in Computer Engineering
+💻 Passionate about Python, Web Development, AI, and Backend Systems
+🚀 Currently building real-world projects to improve my development skills
+📚 Learning:
+
+* Data Structures & Algorithms
+* Backend Development
+* APIs & Databases
+* React & TailwindCSS
+
+🌱 Goal: Become a Full Stack + AI Engineer
 
 ---
 
-### 📊 GitHub Stats
+## 🚀 Featured Projects
 
-![Harshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harshit10880&show_icons=true&theme=dark)
+### 🧠 AI Car Recommender
 
-### 🧰 Tech Stack
+🔹 AI-powered web application that recommends cars based on user preferences.
 
-![HTML](https://img.shields.io/badge/-HTML-e34c26?style=for-the-badge&logo=html5&logoColor=fff)
-![CSS](https://img.shields.io/badge/-CSS-264de4?style=for-the-badge&logo=css3&logoColor=white)
-![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
-![React](https://img.shields.io/badge/-React-20232a?style=for-the-badge&logo=react&logoColor=61dafb)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38b2ac?style=for-the-badge&logo=tailwind-css&logoColor=white)
+🔗 https://github.com/HarshitChavda/ai-car-recommender
 
-[![Python Certification](https://img.shields.io/badge/Python-Certificate-green)](https://your-certificate-link)
-[![Bootstrap Udemy](https://img.shields.io/badge/Bootstrap-Certified-blue)](https://your-certificate-link)
+---
 
+### 📂 Python File Organizer
 
+🔹 Automatically organizes files into folders using Python automation.
+
+🔗 https://github.com/HarshitChavda/python-file-organizer
+
+---
+
+### 📸 Nature Gallery Website
+
+🔹 Responsive Bootstrap-based static photography gallery website.
+
+🔗 https://github.com/HarshitChavda/nature-gallery
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,javascript,c,html,css" />
+</p>
+
+### ⚡ Frameworks & Libraries
+
+<p>
+  <img src="https://skillicons.dev/icons?i=flask,nodejs,express,react,tailwind,bootstrap" />
+</p>
+
+### 🗄️ Database & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,git,github,vscode" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Harshit10880&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshit10880&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Harshit10880&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Harshit10880&theme=algolia&no-frame=true&row=1&column=7" />
+</p>
+
+---
+
+## 📊 Contribution Graph
+
+[![Harshit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Harshit10880\&theme=react-dark)](https://github.com/Harshit10880)
+
+---
+
+## 🧠 Currently Learning
+
+```python
+class HarshitChavda:
+
+    def __init__(self):
+        self.learning = [
+            "Python",
+            "Backend Development",
+            "Data Structures",
+            "React",
+            "AI & Machine Learning"
+        ]
+
+    def future_goal(self):
+        return "Become an AI + Full Stack Engineer 🚀"
+
+me = HarshitChavda()
+print(me.future_goal())
+```
+
+---
+
+## 📜 Certifications
+
+🏅 Python Certification
+🏅 Bootstrap Certification
+🏅 Web Development Courses
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/YOUR-LINK" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
+</a>
+
+<a href="https://github.com/Harshit10880" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
+</a>
+</p>
+
+---
+
+## 👀 Profile Views
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Harshit10880&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+---
+
+## ✨ Fun Fact
+
+💡 I love building projects that solve real-world problems and help me learn new technologies every day.
+
+---
+
+<p align="center">
+  ⭐ From <a href="https://github.com/Harshit10880">Harshit Chavda</a>
+</p>
